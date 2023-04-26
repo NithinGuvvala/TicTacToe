@@ -1,0 +1,115 @@
+2022-04-27 18:28:44,155 Training round 0 : X is the winner - Menace Wins : 0  Menace Loses : 0 Draws :0
+2022-04-27 18:28:45,208 Training round 1 : O is the winner - Menace Wins : 0  Menace Loses : 1 Draws :0
+2022-04-27 18:28:46,471 Training round 2 : X is the winner - Menace Wins : 0  Menace Loses : 2 Draws :0
+2022-04-27 18:28:47,623 Training round 3 : Draw is the winner - Menace Wins : 0  Menace Loses : 3 Draws :0
+2022-04-27 18:28:48,883 Training round 4 : X is the winner - Menace Wins : 0  Menace Loses : 3 Draws :1
+2022-04-27 18:28:49,703 Training round 5 : O is the winner - Menace Wins : 0  Menace Loses : 4 Draws :1
+2022-04-27 18:28:50,850 Training round 6 : O is the winner - Menace Wins : 0  Menace Loses : 5 Draws :1
+2022-04-27 18:28:52,001 Training round 7 : X is the winner - Menace Wins : 1  Menace Loses : 5 Draws :1
+2022-04-27 18:28:53,042 Training round 8 : X is the winner - Menace Wins : 2  Menace Loses : 5 Draws :1
+2022-04-27 18:28:54,187 Training round 9 : X is the winner - Menace Wins : 2  Menace Loses : 6 Draws :1
+2022-04-27 18:28:55,243 Training round 10 : X is the winner - Menace Wins : 3  Menace Loses : 6 Draws :1
+2022-04-27 18:28:56,064 Training round 11 : O is the winner - Menace Wins : 3  Menace Loses : 7 Draws :1
+2022-04-27 18:28:57,210 Training round 12 : O is the winner - Menace Wins : 3  Menace Loses : 8 Draws :1
+2022-04-27 18:28:58,361 Training round 13 : X is the winner - Menace Wins : 4  Menace Loses : 8 Draws :1
+2022-04-27 18:28:59,181 Training round 14 : X is the winner - Menace Wins : 5  Menace Loses : 8 Draws :1
+2022-04-27 18:29:00,315 Training round 15 : X is the winner - Menace Wins : 5  Menace Loses : 9 Draws :1
+2022-04-27 18:29:01,355 Training round 16 : X is the winner - Menace Wins : 6  Menace Loses : 9 Draws :1
+2022-04-27 18:29:02,505 Training round 17 : Draw is the winner - Menace Wins : 6  Menace Loses : 10 Draws :1
+2022-04-27 18:29:03,658 Training round 18 : O is the winner - Menace Wins : 6  Menace Loses : 10 Draws :2
+2022-04-27 18:29:04,809 Training round 19 : X is the winner - Menace Wins : 7  Menace Loses : 10 Draws :2
+2022-04-27 18:29:05,865 Training round 20 : X is the winner - Menace Wins : 8  Menace Loses : 10 Draws :2
+2022-04-27 18:29:07,011 Training round 21 : X is the winner - Menace Wins : 8  Menace Loses : 11 Draws :2
+2022-04-27 18:29:07,847 Training round 22 : X is the winner - Menace Wins : 9  Menace Loses : 11 Draws :2
+2022-04-27 18:29:08,645 Training round 23 : O is the winner - Menace Wins : 9  Menace Loses : 12 Draws :2
+2022-04-27 18:29:09,682 Training round 24 : X is the winner - Menace Wins : 9  Menace Loses : 13 Draws :2
+2022-04-27 18:29:10,611 Training round 25 : X is the winner - Menace Wins : 9  Menace Loses : 14 Draws :2
+2022-04-27 18:29:11,871 Training round 26 : X is the winner - Menace Wins : 10  Menace Loses : 14 Draws :2
+2022-04-27 18:29:13,008 Training round 27 : X is the winner - Menace Wins : 10  Menace Loses : 15 Draws :2
+2022-04-27 18:29:14,175 Training round 28 : O is the winner - Menace Wins : 11  Menace Loses : 15 Draws :2
+2022-04-27 18:29:14,882 Training round 29 : X is the winner - Menace Wins : 12  Menace Loses : 15 Draws :2
+2022-04-27 18:29:15,700 Training round 30 : X is the winner - Menace Wins : 13  Menace Loses : 15 Draws :2
+2022-04-27 18:29:16,831 Training round 31 : X is the winner - Menace Wins : 13  Menace Loses : 16 Draws :2
+2022-04-27 18:29:17,979 Training round 32 : O is the winner - Menace Wins : 14  Menace Loses : 16 Draws :2
+2022-04-27 18:29:18,909 Training round 33 : X is the winner - Menace Wins : 15  Menace Loses : 16 Draws :2
+2022-04-27 18:29:20,048 Training round 34 : O is the winner - Menace Wins : 16  Menace Loses : 16 Draws :2
+2022-04-27 18:29:21,196 Training round 35 : X is the winner - Menace Wins : 17  Menace Loses : 16 Draws :2
+2022-04-27 18:29:22,124 Training round 36 : O is the winner - Menace Wins : 18  Menace Loses : 16 Draws :2
+2022-04-27 18:29:23,271 Training round 37 : Draw is the winner - Menace Wins : 19  Menace Loses : 16 Draws :2
+2022-04-27 18:29:24,329 Training round 38 : X is the winner - Menace Wins : 19  Menace Loses : 16 Draws :3
+2022-04-27 18:29:25,258 Training round 39 : X is the winner - Menace Wins : 19  Menace Loses : 17 Draws :3
+2022-04-27 18:29:26,299 Training round 40 : X is the winner - Menace Wins : 20  Menace Loses : 17 Draws :3
+2022-04-27 18:29:27,436 Training round 41 : X is the winner - Menace Wins : 20  Menace Loses : 18 Draws :3
+2022-04-27 18:29:28,256 Training round 42 : X is the winner - Menace Wins : 21  Menace Loses : 18 Draws :3
+2022-04-27 18:29:29,387 Training round 43 : X is the winner - Menace Wins : 21  Menace Loses : 19 Draws :3
+2022-04-27 18:29:30,645 Training round 44 : X is the winner - Menace Wins : 22  Menace Loses : 19 Draws :3
+2022-04-27 18:29:31,795 Training round 45 : X is the winner - Menace Wins : 22  Menace Loses : 20 Draws :3
+2022-04-27 18:29:32,631 Training round 46 : X is the winner - Menace Wins : 23  Menace Loses : 20 Draws :3
+2022-04-27 18:29:33,654 Training round 47 : O is the winner - Menace Wins : 23  Menace Loses : 21 Draws :3
+2022-04-27 18:29:34,676 Training round 48 : X is the winner - Menace Wins : 23  Menace Loses : 22 Draws :3
+2022-04-27 18:29:35,825 Training round 49 : X is the winner - Menace Wins : 23  Menace Loses : 23 Draws :3
+2022-04-27 18:29:37,080 Training round 50 : X is the winner - Menace Wins : 24  Menace Loses : 23 Draws :3
+2022-04-27 18:29:38,011 Training round 51 : X is the winner - Menace Wins : 24  Menace Loses : 24 Draws :3
+2022-04-27 18:29:39,255 Training round 52 : X is the winner - Menace Wins : 25  Menace Loses : 24 Draws :3
+2022-04-27 18:29:40,295 Training round 53 : O is the winner - Menace Wins : 25  Menace Loses : 25 Draws :3
+2022-04-27 18:29:41,540 Training round 54 : X is the winner - Menace Wins : 25  Menace Loses : 26 Draws :3
+2022-04-27 18:29:42,694 Training round 55 : Draw is the winner - Menace Wins : 25  Menace Loses : 27 Draws :3
+2022-04-27 18:29:43,951 Training round 56 : X is the winner - Menace Wins : 25  Menace Loses : 27 Draws :4
+2022-04-27 18:29:44,868 Training round 57 : X is the winner - Menace Wins : 25  Menace Loses : 28 Draws :4
+2022-04-27 18:29:46,127 Training round 58 : X is the winner - Menace Wins : 26  Menace Loses : 28 Draws :4
+2022-04-27 18:29:47,165 Training round 59 : O is the winner - Menace Wins : 26  Menace Loses : 29 Draws :4
+2022-04-27 18:29:48,408 Training round 60 : Draw is the winner - Menace Wins : 26  Menace Loses : 30 Draws :4
+2022-04-27 18:29:49,336 Training round 61 : X is the winner - Menace Wins : 26  Menace Loses : 30 Draws :5
+2022-04-27 18:29:50,576 Training round 62 : Draw is the winner - Menace Wins : 27  Menace Loses : 30 Draws :5
+2022-04-27 18:29:51,720 Training round 63 : X is the winner - Menace Wins : 27  Menace Loses : 30 Draws :6
+2022-04-27 18:29:52,996 Training round 64 : X is the winner - Menace Wins : 28  Menace Loses : 30 Draws :6
+2022-04-27 18:29:53,814 Training round 65 : O is the winner - Menace Wins : 28  Menace Loses : 31 Draws :6
+2022-04-27 18:29:54,726 Training round 66 : O is the winner - Menace Wins : 28  Menace Loses : 32 Draws :6
+2022-04-27 18:29:55,543 Training round 67 : O is the winner - Menace Wins : 29  Menace Loses : 32 Draws :6
+2022-04-27 18:29:56,583 Training round 68 : X is the winner - Menace Wins : 29  Menace Loses : 33 Draws :6
+2022-04-27 18:29:57,727 Training round 69 : X is the winner - Menace Wins : 29  Menace Loses : 34 Draws :6
+2022-04-27 18:29:58,563 Training round 70 : X is the winner - Menace Wins : 30  Menace Loses : 34 Draws :6
+2022-04-27 18:29:59,477 Training round 71 : X is the winner - Menace Wins : 30  Menace Loses : 35 Draws :6
+2022-04-27 18:30:00,502 Training round 72 : X is the winner - Menace Wins : 31  Menace Loses : 35 Draws :6
+2022-04-27 18:30:01,649 Training round 73 : Draw is the winner - Menace Wins : 31  Menace Loses : 36 Draws :6
+2022-04-27 18:30:02,912 Training round 74 : X is the winner - Menace Wins : 31  Menace Loses : 36 Draws :7
+2022-04-27 18:30:04,062 Training round 75 : X is the winner - Menace Wins : 31  Menace Loses : 37 Draws :7
+2022-04-27 18:30:04,879 Training round 76 : X is the winner - Menace Wins : 32  Menace Loses : 37 Draws :7
+2022-04-27 18:30:06,011 Training round 77 : Draw is the winner - Menace Wins : 32  Menace Loses : 38 Draws :7
+2022-04-27 18:30:07,051 Training round 78 : X is the winner - Menace Wins : 32  Menace Loses : 38 Draws :8
+2022-04-27 18:30:07,976 Training round 79 : X is the winner - Menace Wins : 32  Menace Loses : 39 Draws :8
+2022-04-27 18:30:09,221 Training round 80 : X is the winner - Menace Wins : 33  Menace Loses : 39 Draws :8
+2022-04-27 18:30:10,373 Training round 81 : Draw is the winner - Menace Wins : 33  Menace Loses : 40 Draws :8
+2022-04-27 18:30:11,433 Training round 82 : X is the winner - Menace Wins : 33  Menace Loses : 40 Draws :9
+2022-04-27 18:30:12,585 Training round 83 : Draw is the winner - Menace Wins : 33  Menace Loses : 41 Draws :9
+2022-04-27 18:30:13,844 Training round 84 : X is the winner - Menace Wins : 33  Menace Loses : 41 Draws :10
+2022-04-27 18:30:14,772 Training round 85 : X is the winner - Menace Wins : 33  Menace Loses : 42 Draws :10
+2022-04-27 18:30:15,810 Training round 86 : X is the winner - Menace Wins : 34  Menace Loses : 42 Draws :10
+2022-04-27 18:30:16,739 Training round 87 : X is the winner - Menace Wins : 34  Menace Loses : 43 Draws :10
+2022-04-27 18:30:17,767 Training round 88 : X is the winner - Menace Wins : 35  Menace Loses : 43 Draws :10
+2022-04-27 18:30:18,587 Training round 89 : O is the winner - Menace Wins : 35  Menace Loses : 44 Draws :10
+2022-04-27 18:30:19,609 Training round 90 : X is the winner - Menace Wins : 35  Menace Loses : 45 Draws :10
+2022-04-27 18:30:20,646 Training round 91 : O is the winner - Menace Wins : 35  Menace Loses : 46 Draws :10
+2022-04-27 18:30:21,905 Training round 92 : X is the winner - Menace Wins : 35  Menace Loses : 47 Draws :10
+2022-04-27 18:30:22,832 Training round 93 : X is the winner - Menace Wins : 35  Menace Loses : 48 Draws :10
+2022-04-27 18:30:23,965 Training round 94 : O is the winner - Menace Wins : 36  Menace Loses : 48 Draws :10
+2022-04-27 18:30:24,781 Training round 95 : O is the winner - Menace Wins : 37  Menace Loses : 48 Draws :10
+2022-04-27 18:30:25,822 Training round 96 : X is the winner - Menace Wins : 37  Menace Loses : 49 Draws :10
+2022-04-27 18:30:26,862 Training round 97 : O is the winner - Menace Wins : 37  Menace Loses : 50 Draws :10
+2022-04-27 18:30:27,012 Last Training Game moves 4
+2022-04-27 18:30:27,223 MatchBox: {0: 1000, 2: 1000, 4: 1000, 5: 1000, 6: 1004, 7: 1000, 8: 1000}
+2022-04-27 18:30:27,223 Last Training Game moves 2
+2022-04-27 18:30:27,332 Last Training Game moves 7
+2022-04-27 18:30:27,443 MatchBox: {0: 1000, 2: 1000, 5: 1000, 7: 1000, 8: 1000}
+2022-04-27 18:30:27,443 Last Training Game moves 5
+2022-04-27 18:30:27,553 Last Training Game moves 1
+2022-04-27 18:30:27,664 Training round 98 : X is the winner - Menace Wins : 37  Menace Loses : 51 Draws :10
+2022-04-27 18:30:27,802 MatchBox: {0: 1008, 1: 1000, 2: 1000, 3: 1000, 4: 1000, 5: 1000, 6: 1000, 7: 1000}
+2022-04-27 18:30:27,802 Last Training Game moves 9
+2022-04-27 18:30:27,916 Last Training Game moves 1
+2022-04-27 18:30:28,027 MatchBox: {1: 1000, 3: 1000, 4: 1000, 5: 1000, 6: 1000, 7: 1000}
+2022-04-27 18:30:28,027 Last Training Game moves 3
+2022-04-27 18:30:28,136 Last Training Game moves 8
+2022-04-27 18:30:28,246 MatchBox: {1: 1000, 3: 1000, 4: 1000, 6: 1000}
+2022-04-27 18:30:28,246 Last Training Game moves 6
+2022-04-27 18:30:28,356 Training round 99 : X is the winner - Menace Wins : 37  Menace Loses : 52 Draws :10
